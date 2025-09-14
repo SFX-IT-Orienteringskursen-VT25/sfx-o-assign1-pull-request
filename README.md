@@ -9,7 +9,7 @@
 
 5. Create a branch
 
-6. Make any change
+6. Make any change to the application code (Start.html)
   For example add your name to the title “Linus Coding Project”
 
 7. Commit
