@@ -18,4 +18,6 @@
 
 9. Create a pull request \<your branch\> => \<main\>
 
+10. Veronica Nakiwala
+
 Done!
