@@ -1,4 +1,8 @@
 # sfx-o-assign1-pull-request
+The assignment was introduced in Class #4. In the link you can find the slides from the presentation as well as a recording of the class.
+https://classroom.google.com/c/MjI5OTg3MzMwODFa/p/MjMyMDM3MTc3MDla/details
+
+## Instructions
 1. Install Git
 
 2. Install a Git Client of your choice
