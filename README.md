@@ -1,5 +1,11 @@
 # sfx-o-assign1-pull-request
-Start by viewing Class #3 (yes in this course we start from 3 ;-P). Content: Swedish job market/culture and Trends in the industry
+Start by viewing
+Class #1 (only slides are available)
+Content: State of the industry and course introduction
+https://docs.google.com/presentation/d/1cHYNILtYjPeG0K31TmuubNvGndRjblY5GKru2l0_VkY/
+
+Class #3
+Content: Swedish job market/culture and Trends in the industry
 https://classroom.google.com/c/MjI5OTg3MzMwODFa/p/NzU1MjE0MjcyODY4/details
 
 The assignment was introduced in Class #4. In the link you can find the slides from the presentation as well as a recording of the class.
